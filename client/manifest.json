@@ -1,0 +1,19 @@
+{
+    "short_name": "AI chatbot",
+    "name": "AI Chatbot App",
+    "icons": [
+      {
+        "src" : "/icon.png",
+        "type" : "image/png",
+        "sizes" : "740x740",
+        "purpose": "any maskable"
+      }
+    ],
+    "maskable_icon": "/icon.png",
+    "maskable_icon_background_color": "#ffffff",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
