@@ -15,21 +15,21 @@ ChatGPT AI Application
 ```
 
 ## Mobile View
-<img src="https://ibb.co/2Nt2mp5" width="800" />
+<img src="https://github.com/sourav2002/AI-chatbot/blob/master/client/public/mobile.jpg" width="300" />
 <hr>
 
 ## PWA Verified
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+<img src="https://github.com/sourav2002/AI-chatbot/blob/master/client/public/pwa.jpg" width="400" />
 <hr>
 
 ## Install 
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+<img src="https://github.com/sourav2002/AI-chatbot/blob/master/client/public/install.jpg" width="800" />
 <hr>
 
 ## Main Page
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+<img src="https://github.com/sourav2002/AI-chatbot/blob/master/client/public/empty.jpg" width="800" />
 <hr>
 
 ## Search 
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+<img src="https://github.com/sourav2002/AI-chatbot/blob/master/client/public/search.jpg" width="800" />
 <hr>
