@@ -9,6 +9,7 @@ import { dirname } from 'path'
 dotenv.config()
 
 const app = express()
+const PORT = process.env.PORT || 5000;
 const __filename = fileURLToPath(import.meta.url); // to get the full path of current file
 const __dirname = dirname(__filename); // to get the directory name of current file
 const reactBuild = path.join(__dirname, '../client', 'dist') // path.join() to edit the current path
@@ -53,4 +54,4 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(5000, () => console.log('AI server started on http://localhost:5000'))
+app.listen(PORT, () => console.log(`AI server started on http://localhost:${PORT}`))
